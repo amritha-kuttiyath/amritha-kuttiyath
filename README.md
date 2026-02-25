@@ -52,7 +52,7 @@ I’m a passionate **Data Analyst** with hands-on experience in analyzing, clean
 
 ## 🌐 Connect with Me
 
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin  
+- 💼 LinkedIn: www.linkedin.com/in/amritha-k-kuttiyath  
 - 📁 GitHub: https://github.com/amritha-kuttiyath  
 
 ---
